@@ -1,0 +1,10 @@
+{
+    "program": "mbti_ml_statistics.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpJCaDyLPfmpyFWrXfV2iVRnC7vP8kAgAbSyN4feJgGhtk",
+        "address": "aleo1s3nj6z7s8kqfsfqyjxtwlvr8j9tqtzafsk7f7zgt9nk6hu99h5pqyele4k"
+    },
+    "license": "MIT"
+}
